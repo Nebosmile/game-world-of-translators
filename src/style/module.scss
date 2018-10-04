@@ -1,0 +1,15 @@
+body{
+	display: flex;
+	align-items: center;
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+}
+#canvContainer{
+
+}
+canvas {
+    display: block;
+    max-width: 100vw;
+    max-height: 100vh;
+}
